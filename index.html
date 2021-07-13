@@ -1,9 +1,52 @@
+<!DOCTYPE html>
 <html>
-  <title>MyFirstApp</title>
   <head>
+    <meta charset="utf-8">
+    <title>My first page</title>
+  </head>
   <body>
-    <p>This is a test again</p>
+    <img src="pics/OG.jpg" width= "150" height= "200" alt="My pic">
+
+    <p>Hello, my name is Paulina and I am currently a senior at Point Park University.
+      I am looking to graduate in the fall. Some of my interests include, playing games like,
+      Rummy 500 or playing on my Nintendo Switch. I enjoy being outside and like to show my kids
+      the different kind of mosses and flowers we can find outside. I also like learning about
+      cool science facts, like how big Betelgeuse is compared to our sun.</p>
+
+    <p>In the fall ill be taking 5 courses, Principles of Management, Microcomputing I,
+      Web Application Development, Digital Security, and Principles of Econ/Microeconomics.
+      In which completes my bachelor’s in science and I could not be happier.</p>
+
+    <p>You can get in touch with me personally through my school email, pshutt@pointpark.edu.
+      Thank you!</p>
+
+    <div class="container">
+      <div style="text-align:center">
+        <h2>Contact Me</h2>
+      </div>
+      <div class= "row">
+        <div class= "column">
+      </div>
+      <div class= "column">
+        <form action= "/action_page.php">
+          <label for= "fname">First Name</label>
+          <input typ= "text" id="fname" name= "firstname" placeholder= "Your first name..">
+          <label for= "lname">Last Name</label>
+          <input type= "text" id="lname" name= "lastname" placeholder= "Your last name..">
+          <label for= "country">Country</label>
+          <select id= "country" name= "country">
+            <option value= "usa">USA</option>
+            <option value= "canada">Canada</option>
+            <option value= "australia">Australia</option>
+          </select>
+          <label for= "subject">Subject</label>
+          <textarea id= "subject" name= "subject" placeholder= "Write something.."
+      style= "height:100px"></textarea>
+          <input type= "submit" value= "Submit">
+        </form>
+      </div>
+    </div>
+  </div>
 
   </body>
-  </head>
 </html>
