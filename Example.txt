@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 #Howdy
+=======
+#Howdy Everyone!
+>>>>>>> fad93d100266d7fdd5aed2a3d575784b9b2dc593
