@@ -1,2 +1,9 @@
+<<<<<<< HEAD
+#Howdy
+=======
 #Howdy Everyone!
+<<<<<<< HEAD
+>>>>>>> fad93d100266d7fdd5aed2a3d575784b9b2dc593
+=======
 #I hope this works
+>>>>>>> 3869ff5e9227f7aa434270cf6e69c18fa5aabe0f
