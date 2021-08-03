@@ -16,18 +16,45 @@
       color: green;
       font-style: "Courier New", monospace;
       font-size: 20px;
-
     }
+
+    ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      width: 100px;
+      background-color: #f1f1f1;
+    }
+
+    li a{
+      display: block;
+      width: 60px;
+      padding: 8px 16px;
+      text-decoration: none;
+    }
+
+    li a.active {
+      background-color: #4CAF50;
+      color: white;
+    }
+
+    /*Change the link color. Hover over*/
+    li a:hover:not(.active) {
+      background-color: #555;
+      color: white;
+    }
+
+
     </style>
 
   <body>
 
     <ul>
-      <li><a href="#home">Home</a></li>
-      <li><a href="#photos">Photos</a></li>
-      <li><a href="#classes">Classes</a></li>
-      <li><a href="#hobbies">Hobbies</a></li>
+      <li><a href="#certificates">Certificates</a></li>
+      <li><a href="#awards">Awards</a></li>
       </ul>
+
+    <img src="Pics/Personal/OG.jpg" class="center">
 
     <h1> Paulina's Portfolio</h1>
 
@@ -43,7 +70,7 @@
     <div style="background-color: orange">
       </div>
 
-
+  <img src="Pics/CMPS262/LinkedIn Certificate.jpg" class="center">
 
   </body>
   </head>
