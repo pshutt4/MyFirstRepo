@@ -6,3 +6,5 @@ It's a website that displays, my hobbies, my classes for the following fall seme
 ## What platform was the website developed on?
 Version 1.0 was developed on Windows10.
 
+## What programming languages were used?
+-HTML, CSS, and JavaScript.
