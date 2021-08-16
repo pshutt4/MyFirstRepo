@@ -1,3 +1,8 @@
 # My Website
 
 ## What is my website?
+It's a website that displays, my hobbies, my classes for the following fall semester 2021, an API, and my portfolio with accomplishments from Point Park University. 
+
+## What platform was the website developed on?
+Version 1.0 was developed on Windows10.
+
