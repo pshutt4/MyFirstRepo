@@ -21,7 +21,7 @@ Version 1.0 was developed on Windows10.
 [grid="rows", format="csv"]
 [options="header", cols="^,<,<s,<,>m"]
 |===========================
-Webpage, Location, Environment, URL, Status, Version
+Name, Location, Environment, URL, Status, Version
 '{WEBPAGE_NAME}','{WEBPAGE_LOCATION}','{WEBPAGE_ENVIRONMENT}','{WEBPAGE_URL}','{WEBPAGE_STATUS}','{WEBPAGE_VERSION}'
 |===========================
 
