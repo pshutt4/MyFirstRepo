@@ -1,4 +1,5 @@
 # My Website
+
 :WEBPAGE_NAME: Palis Webpage
 :WEBPAGE_LOCATION: Murrysville
 :WEBPAGE_ENVIRONMENT: Staging
@@ -18,7 +19,7 @@ Version 1.0 was developed on Windows10.
 -HTML, CSS, and JavaScript.
 
 [grid="rows", format="csv"]
-[options="header", cols="^,<,<s,>m"]
+[options="header", cols="^,<,<s,<,>m"]
 |==============================
 Webpage, Location, Environment, URL, Status, Version
 '{WEBPAGE_NAME}','{WEBPAGE_LOCATION}','{WEBPAGE_ENVIRONMENT}','{WEBPAGE_URL}','{WEBPAGE_STATUS}','{WEBPAGE_VERSION}'
