@@ -1,4 +1,12 @@
 # My Website
+:WEBPAGE_NAME: Palis Webpage
+:WEBPAGE_LOCATION: Murrysville
+:WEBPAGE_ENVIRONMENT: Staging
+:WEBPAGE_URL: http://pashutt.it.pointpark.edu/MyWebsiteApps/MyFirstRepo/Homepage.html
+:WEBPAGE_STATUS: Available
+:WEBPAGE_VERSION: 1.0.1
+:imagesdir: images
+
 
 ## What is my website?
 It's a website that displays, my hobbies, my classes for the following fall semester 2021, an API, and my portfolio with accomplishments from Point Park University. 
@@ -8,3 +16,11 @@ Version 1.0 was developed on Windows10.
 
 ## What programming languages were used?
 -HTML, CSS, and JavaScript.
+
+[grid="rows", format="csv"]
+[options="header", cols="^,<,<s,>m"]
+|==============================
+Webpage, Location, Environment, URL, Status, Version
+'{WEBPAGE_NAME}','{WEBPAGE_LOCATION}','{WEBPAGE_ENVIRONMENT}','{WEBPAGE_URL}','{WEBPAGE_STATUS}','{WEBPAGE_VERSION}'
+|==============================
+
