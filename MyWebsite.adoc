@@ -27,3 +27,6 @@ Version 1.0 was developed on Windows10.
 Name, Location, Environment, URL, Status, Version
 {WEBPAGE_NAME},{WEBPAGE_LOCATION},{WEBPAGE_ENVIRONMENT},{WEBPAGE_URL},{WEBPAGE_STATUS},{WEBPAGE_VERSION}
 |===========================
+image::BranchStrategy.PNG[alt=Branch Strategy, width=250px][orientation=portrait]
+
+image::ImplementationProcess.PNG[alt=Implementation Process, width=250px][orientation=portrait]
