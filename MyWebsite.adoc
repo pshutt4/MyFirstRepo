@@ -8,9 +8,8 @@
 :WEBPAGE_VERSION: 1.0.1
 :imagesdir: images
 
-
 ## What is my website?
-It's a website that displays, my hobbies, my classes for the following fall semester 2021, an API, and my portfolio with accomplishments from Point Park University. 
+It's a website that displays, my hobbies, my classes for the following fall semester 2021, an API, and my portfolio with accomplishments from Point Park University. The homepage on my website provides a brief description of what my upcoming classes look like in the fall as well as my contact information. There are 4 buttons provided on the homepage that allow one to look over my webpage. 
 
 ## What platform was the website developed on?
 Version 1.0 was developed on Windows10.
@@ -24,6 +23,8 @@ Version 1.0 was developed on Windows10.
 
 |===========================
 Name, Location, Environment, URL, Status, Version
-{WEBPAGE_NAME},{WEBPAGE_LOCATION},{WEBPAGE_ENVIRONMENT},'{WEBPAGE_URL}',{WEBPAGE_STATUS},{WEBPAGE_VERSION}
+{WEBPAGE_NAME},{WEBPAGE_LOCATION},{WEBPAGE_ENVIRONMENT},{WEBPAGE_URL},{WEBPAGE_STATUS},{WEBPAGE_VERSION}
 |===========================
 
++
+images::BarkShieldLichen.jpg[alt=Fungis, width=250px][orientation=landscape]
