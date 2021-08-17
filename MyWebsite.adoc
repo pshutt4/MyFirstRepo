@@ -18,6 +18,8 @@ Version 1.0 was developed on Windows10.
 ## What programming languages were used?
 -HTML, CSS, and JavaScript.
 
+## Webpage Environment Details
+
 [grid="rows", format="csv"]
 [options="header", cols="^,<,<s,<,>m"]
 |===========================
