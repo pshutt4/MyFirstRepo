@@ -21,7 +21,7 @@ Version 1.0 was developed on Windows10.
 ## Webpage Environment Details
 
 [grid="rows", format="csv"]
-[options="header", cols="^,<,<s,<,>m"]
+
 |===========================
 Name, Location, Environment, URL, Status, Version
 '{WEBPAGE_NAME}','{WEBPAGE_LOCATION}','{WEBPAGE_ENVIRONMENT}','{WEBPAGE_URL}','{WEBPAGE_STATUS}','{WEBPAGE_VERSION}'
