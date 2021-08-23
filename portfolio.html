@@ -1,7 +1,26 @@
 <html>
   <title>Portfolio</title>
   <head>
+
+  </head>
+
     <style>
+    * {
+      box-sizing: border-box;
+  }
+
+    .column {
+      float: left;
+      width: 33.33%;
+      padding: 5px;
+  }
+
+/* Clearfix (clear floats) */
+    .row::after {
+      content: "";
+      clear: both;
+      display: table;
+  }
 
       body {
         color: brown;
@@ -59,7 +78,7 @@
     <ul>
       <li><a href="Homepage.html">Homepage</a></li>
       <li><a href="#awards">Awards</a></li>
-      <li><a href="#awards">Certificates</a></li>
+      <li><a href="#certificates">Certificates</a></li>
       </ul>
 
     <center><img src="OG.jpg" class="center" width="215" height="290"></center>
@@ -78,8 +97,20 @@
     <div style="background-color: orange">
       </div>
 
-  <center><img src="LinkedIn Certificate.PNG" class="center" width="450" height="350"></center>
+    <div class="row">
+        <div class="column">
+          <img src="LinkedIn Certificate.PNG" style="width:100%">
+    </div>
+
+    <div class="column">
+          <img src="LinkedIn Certificate1.PNG" style="width:100%">
+    </div>
+
+    <div class="column">
+        <img src="LinkedIn Certificate2.PNG" style="width:100%">
+    </div>
+
+    </div>
 
   </body>
-  </head>
 </html>
